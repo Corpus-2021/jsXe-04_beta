@@ -1,0 +1,22 @@
+component_depth: 1
+languages:
+- java
+exclude:
+- ./bin/.*
+- ./bin/gnu/.*
+- ./bin/gnu/regexp/.*
+- ./bin/net/.*
+- ./bin/org/.*
+- ./bin/org/syntax/.*
+- ./bin/org/syntax/jedit/.*
+- ./bin/org/syntax/jedit/tokenmarker/.*
+- ./bin/treeview/.*
+- ./bin/treeview/action/.*
+- ./doc/.*
+- ./doc/api/.*
+- ./doc/api/net/.*
+- ./jars/.*
+- ./jars/treeview/.*
+- ./jars/treeview/messages/.*
+- ./lib/.*
+- ./messages/.*
